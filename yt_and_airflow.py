@@ -1,3 +1,4 @@
+#THis airfow pipeline gets the top 5 most popular videos thumbnails on youtube and saves them in a temporary directory
 import json
 import pathlib
 
